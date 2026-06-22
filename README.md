@@ -1,5 +1,3 @@
-markdown
-
 \# 🤖 Telegram Meeting Planner Bot
 
 
